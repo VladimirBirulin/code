@@ -6,3 +6,6 @@ git remote remove origin удаление
 git config --list
 git config --user.name ""
 git config --user.email ""
+git clone ссылка
+git status
+
