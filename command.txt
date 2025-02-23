@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "Your commentar"
+git push
+git remote remove origin удаление
+git config --list
+git config --user.name ""
+git config --user.email ""
